@@ -1,6 +1,6 @@
 .bun-top {
-  height: 70px;
-  width: 60%;
+  height: 50px;
+  width: 70%;
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
@@ -8,16 +8,17 @@
 
 .cheese {
   height: 15px;
-  width: 65%;
+  width: 60%;
   background: #f2c120;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
-.tomato {
-  height: 25px;
-  width: 50%;
+.ketchup {
+  height: 5px;
+  width: 56%;
   background-color: #dd3710;
   border-bottom: solid 2px rgba(0,0,0,.1);
+  border-radius: 50px 50px 10px 10px
 }
 
 .meatball {
@@ -31,16 +32,16 @@
 
 .patty {
   height: 35px;
-  width: 65%;
+  width: 60%;
   background: #ad370b;
   border-radius: 15px;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .pickle {
-  height: 30px;
-  width: 50%;
-  background: #3ac67d;
+  height: 10px;
+  width: 60%;
+  background: #084425;
   border-radius: 0 0 100px 100px;
   border-bottom: solid 10px #2d9961;
 }
@@ -53,7 +54,7 @@
 
 .bun-bottom {
   height: 35px;
-  width: 60%;
+  width: 70%;
   background: #e5b05a;
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
@@ -62,6 +63,6 @@
 .plate {
   height: 25px;
   width: 80%;
-  background: #656565;
+  background: #d7eaf0;
   border-radius: 20px 20px 200px 200px;
 }
